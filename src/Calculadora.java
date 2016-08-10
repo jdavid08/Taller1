@@ -49,6 +49,9 @@ class Calculadora
 						resultado = operando1 / operando2;
 						break;
 						
+					default:
+						break;
+						
 				}
 				System.out.println("Resultado: " + resultado);
 			} 
